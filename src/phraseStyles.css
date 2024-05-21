@@ -1,0 +1,16 @@
+.pointer {
+    text-decoration: underline;
+}
+
+.typed-phrase {
+    color: #000;
+}
+
+.phrase {
+    padding: 16px;
+    font-family: monospace;
+    font-weight: 700;
+    font-size: 5em;
+    text-align: center;
+    color: #0a307c80;
+}
